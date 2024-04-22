@@ -1,4 +1,5 @@
-﻿;; Disable Caps Lock at script start
+;;AutoHoyKey version 2
+;; Disable Caps Lock at script start
 SetCapsLockState("Off")
 
 ; Toggle Caps Lock state using Shift + Caps Lock
